@@ -4,7 +4,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/erdem-y%C4%B1lmaz-79b98760/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erdemsyilmaz" height="30" width="20" /></a>
-<br>
+"&nbsp;" 
 <a href="https://www.instagram.com/erdemsyilmaz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Erdem Yılmaz" height="30" width="20" /></a>
 </p>
 
