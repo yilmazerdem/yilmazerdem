@@ -1,5 +1,11 @@
 <h1 align="center">Erdem Yılmaz</h1>
-<h3 align="center">FullStackDeveloper</h3>
+<h3 align="center">FullStackDeveloper
+<br>
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/4667/4667930.png" alt="coder" height="100" width="100" /></a>
+<br>
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/2621/2621217.png" alt="coder" height="100" width="100" /></a>
+
+</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
